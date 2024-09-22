@@ -1,4 +1,4 @@
-# Qclass 24-25
+# QClass 24-25
 
 ### Links
 
@@ -10,11 +10,26 @@
 
 ### Session Links - YouTube
 
-- [0 - QClass 24/25 Welcome Session](https://www.youtube.com/watch?v=x3GYH5JikCE)
-- [1 - QClass24/25 Lecture 01](https://www.youtube.com/watch?v=9J7Glsec31c)  | [1 - QClass24/25 Lab Session 01](https://www.youtube.com/watch?v=iY7TIiDCATQ)
-- [2 - QClass24/25 Lecture 02](https://www.youtube.com/watch?v=OGJqv-UzDdQ) | [2 - QClass24/25 Lab Session 02](https://www.youtube.com/watch?v=GodoUKoE73E)
-- [ - ]()
-- [ - ]()
-- [ - ]()
-- [ - ]()
-- [ - ]()
+| Sessions | Labs |
+|----------|------|
+|[0 - QClass 24/25 Welcome Session](https://www.youtube.com/watch?v=x3GYH5JikCE)| |
+|[1 - QClass24/25 Lecture 01](https://www.youtube.com/watch?v=9J7Glsec31c)  | [1 - QClass24/25 Lab Session 01](https://www.youtube.com/watch?v=iY7TIiDCATQ)|
+|[2 - QClass24/25 Lecture 02](https://www.youtube.com/watch?v=OGJqv-UzDdQ) | [2 - QClass24/25 Lab Session 02](https://www.youtube.com/watch?v=GodoUKoE73E)|
+|[3 - ]()| |
+|[4 - ]()| |
+
+### Create & activate new python environement for hands-on
+
+1. Create a python environment `Qclass2425`
+
+```
+python -m venv Qclass2425
+
+```
+
+2. Activate Python environment
+
+```
+Qclass2425\Scripts\activate
+
+```
